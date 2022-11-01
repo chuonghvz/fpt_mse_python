@@ -1,8 +1,13 @@
 # fpt_mse_python
 FPT MSE Python Assignment
 
-Tên học viên: Hồ Văn Chương </br></br>
-Mã số: 22MSE23072 </br></br>
+<b>Giảng viên: PGS. TS. Nguyễn Thanh Hiên </b></br></br>
+
+Môn học : Python For Engineer </br></br>
+
+Tên học viên: <b>Hồ Văn Chương </b> </br></br>
+
+Mã số: <b>22MSE23072 </b> </br></br>
 
 <table>
   <tr>
