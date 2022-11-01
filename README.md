@@ -1,7 +1,7 @@
 # fpt_mse_python
 FPT MSE Python Assignment
 
-<b>Giảng viên: PGS. TS. Nguyễn Thanh Hiên </b></br></br>
+<h3><b>Giảng viên: PGS. TS. Nguyễn Thanh Hiên </b></h3></br></br>
 
 Môn học : Python For Engineer </br></br>
 
